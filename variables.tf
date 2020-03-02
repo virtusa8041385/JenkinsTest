@@ -71,7 +71,7 @@ variable "userSG" {
 
     description = "IP Cidr from which you are likely to RDP into the instances. You can add rules later by modifying the created security groups e.g. 54.32.98.160/32"
 
-    default = "sg-060d386c5f5a1c96c"
+    default = "sg-07234788ac9cf4ac3"
 
 }
 
