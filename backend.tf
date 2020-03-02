@@ -1,7 +1,7 @@
 terraform{
   backend "remote"{
     hostname = "app.terraform.io"
-    organiaztion  = "JenkinsTest"
+    organization  = "JenkinsTest"
     workspaces{
       name = "JenkinsTest"
     }
