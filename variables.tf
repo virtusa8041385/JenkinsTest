@@ -1,12 +1,12 @@
 variable "access_key" {
 
-default = "AKIA5I65IZOHSTFAOQPT"
+description ="awskey"
 
 }
 
 variable "secret_key" {
 
-default = "+NCqMo7w/C7rIWuTxcEZslGb72cSfd6XqzEdbgAf"
+description ="password"
 
 }
 
