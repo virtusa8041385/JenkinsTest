@@ -3,7 +3,7 @@ terraform{
     hostname = "app.terraform.io"
     organiaztion  = "EKSTestOrg"
     workspaces{
-      name = ""
+      name = "JenkinsTest"
     }
   }
 }
